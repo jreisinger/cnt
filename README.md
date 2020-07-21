@@ -1,3 +1,5 @@
+`cnt` module has packages for counting occurrences of lines, words and bytes.
+
 Sample usage:
 
 ```
